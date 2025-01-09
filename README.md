@@ -1,2 +1,4 @@
 # nlp-trigram-models
 Character-Level Trigram Models for Multilingual Language Identification
+
+This report examines the development and evalua- tion of a character-level trigram language model for identifying languages among Xhosa, Dutch, Afrikaans, English, and Zulu. The model uses character-level trigrams to effectively capture unique linguistic structures, accommodating languages with rich morphology. A comprehensive text normalisation process was im- plemented, and model performance was assessed using perplexity measures. Additionally, Byte Pair Encoding (BPE) analysed language similarity through subword vocabulary overlap. Results demonstrate the model’s high accuracy and reveal significant linguistic relationships among the languages. These findings underscore the model’s potential in multilingual natural language processing applications.
